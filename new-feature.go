@@ -1,1 +1,1 @@
-bla bla
+new noempty file
